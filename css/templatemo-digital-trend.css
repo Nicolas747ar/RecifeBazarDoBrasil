@@ -735,10 +735,4 @@ https://templatemo.com/tm-538-digital-trend
     border: 3px solid;
   }
 
-@media (max-width: 576px) {
-  .hero-text h1 {
-    font-size: 1.5rem; /* Reduce el tamaño de la fuente en pantallas pequeñas */
-    text-align: center; /* Centra el texto */
-    word-wrap: break-word; /* Permite que las palabras largas se dividan */
-  }
-}
+
